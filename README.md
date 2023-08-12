@@ -5,7 +5,11 @@
 - [x] remover o controle de versão da cópia
 ```
 find ./ -type d -name ".git" -execdir rm -rf {} \;
-``` 
- - -> comando que utilizei para remover o git dos exercicios copiados de forma *automatica*
+# comando que utilizei para remover o git dos exercicios copiados de forma automatica.
 
+# git submodule add <link ssh> <nome da pasta / caminho em q eh clonado>
+# terminal no repo 'pai'
+```  
+
+- [x] add o repo do hackerrank como submodulo 
 - [x] usar terminal pra tudo 🤓
