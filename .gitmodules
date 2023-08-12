@@ -1,0 +1,3 @@
+[submodule "exercicios-hackerrank"]
+	path = exercicios-hackerrank
+	url = git@github.com:1b1g0/ex-hackerRank.git
