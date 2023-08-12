@@ -1,0 +1,3 @@
+[submodule "exercicio-variaveis"]
+	path = exercicio-variaveis
+	url = git@github.com:1b1g0/exercicios-backend-variaveis.git
